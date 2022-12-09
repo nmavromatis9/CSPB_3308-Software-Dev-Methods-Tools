@@ -1,0 +1,30 @@
+    <td id="clue_DJ_1_1" class="clue_text">In 1749 he was appointed surveyor of Culpeper County, Virginia</td>
+    <td id="clue_DJ_1_2" class="clue_text">On June 16, 1858 he said, "A house divided against itself cannot stand"</td>
+    <td id="clue_DJ_1_3" class="clue_text">While he was vacationing at his father's Vermont home, word reached him that Harding had died</td>
+    <td id="clue_DJ_1_4" class="clue_text">While governor of New Jersey, he enacted the state's first workmen's compensation law</td>
+    <td id="clue_DJ_1_5" class="clue_text">The last Whig elected president, he was James Madison's distant cousin</td>
+    <td id="clue_DJ_2_1" class="clue_text">In 1996 this popular star directed his first feature film, "That Thing You Do!"</td>
+    <td id="clue_DJ_2_2" class="clue_text">David Lean's sweeping saga of this British adventurer was reissued in 1989 with previously unseen footage</td>
+    <td id="clue_DJ_2_3" class="clue_text">In this 1995 comedy Damon Wayans starred as an ex-Marine hired to train junior ROTCs</td>
+    <td id="clue_DJ_2_4" class="clue_text">It's the film in which Tom Cruise played up-&amp;-coming lawyer Mitch McDeere</td>
+    <td id="clue_DJ_2_5" class="clue_text">Liam Neeson won critical acclaim for his recent portrayal of this Irish revolutionary</td>
+    <td id="clue_DJ_3_1" class="clue_text">This duke of jazz composed an original score for Alvin Ailey's brilliant modern ballet "The River"</td>
+    <td id="clue_DJ_3_2" class="clue_text">"Concerto Barocco" is danced to a concerto for 2 violins by this great Baroque composer</td>
+    <td id="clue_DJ_3_3" class="clue_text">In 1998 she performed with the Kirov Ballet for the first time since her defection 18 years earlier</td>
+    <td id="clue_DJ_3_4" class="clue_text">Eugene Loring played the devil in this female choreographer's 1941 ballet "Three Virgins and a Devil"</td>
+    <td id="clue_DJ_3_5" class="clue_text">George Balanchine created 10 ballets for this impresario's Ballets Russes</td>
+    <td id="clue_DJ_4_1" class="clue_text">According to the title of Flannery O'Connor's first book pf short stories, this kind of "man is hard to find"</td>
+    <td id="clue_DJ_4_2" class="clue_text">This "Lolita" author remembers his childhood in St. Petersburg in his memoir "Speak, Memory"</td>
+    <td id="clue_DJ_4_3" class="clue_text">This English poet's "Ode On Indolence" wasn't published until after his death</td>
+    <td id="clue_DJ_4_4" class="clue_text">She published "Exit To Eden" under the pen name Anne Rampling</td>
+    <td id="clue_DJ_4_5" class="clue_text">He wrote "I, Claudius" for adults &amp; "The Poor Boy Who Followed His Star" for children</td>
+    <td id="clue_DJ_5_1" class="clue_text">This term for meat-eating mammals encompasses fish eaters like seals</td>
+    <td id="clue_DJ_5_2" class="clue_text">This group of mammals lost out to placental mammals in much of the world but hung tough in Australia</td>
+    <td id="clue_DJ_5_3" class="clue_text">Using feelers on its snout, the star-nosed type of this nearly blind mammal finds food underground</td>
+    <td id="clue_DJ_5_4" class="clue_text">The pygmy species of this amphibious mammal reaches a mere 3' high, 6' long &amp; 400 lbs.</td>
+    <td id="clue_DJ_5_5" class="clue_text">Bush babies are tree-dwelling members of this order that includes human babies</td>
+    <td id="clue_DJ_6_1" class="clue_text">In October 1996 its peso fell to 8 to a dollar</td>
+    <td id="clue_DJ_6_2" class="clue_text">If you're off on the road to this north African country take some dirhams, its currency</td>
+    <td id="clue_DJ_6_3" class="clue_text">After it broke from Yugoslavia in 1991, Greece objected to its use of Hellenic symbols</td>
+    <td id="clue_DJ_6_4" class="clue_text">It's been ruled by the Phoenicians, Romans, Arabs, Normans, Knights, France, Britain &amp; since 1964, itself</td>
+    <td id="clue_DJ_6_5" class="clue_text">Formerly the Caroline Islands, its name sounds like it's the smallest country in the world</td>

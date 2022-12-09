@@ -1,0 +1,30 @@
+    <td id="clue_J_1_1" class="clue_text">He gets right to the point, the ear point, in "I Am Spock"</td>
+    <td id="clue_J_1_2" class="clue_text">She tells of life before &amp; after Burt in "My Life in High Heels"</td>
+    <td id="clue_J_1_3" class="clue_text">Her book is "After All", after all, her show's theme song ended "You're gonna make it after all"</td>
+    <td id="clue_J_1_4" class="clue_text">"Palimpsest" is "A Memoir" by this "Burr" author</td>
+    <td id="clue_J_1_5" class="clue_text">"A Good Life: Newspapering and Other Adventures" is by this former Washington Post editor</td>
+    <td id="clue_J_2_1" class="clue_text">Croutons may be substituted for breadcrumbs in this traditional Thanksgiving side dish</td>
+    <td id="clue_J_2_2" class="clue_text">Joy of Cooking suggests serving slices of this guacamole ingredient with chutney as an hors d'oeuvre</td>
+    <td id="clue_J_2_3" class="clue_text">Sugar or molasses may be added to this salt &amp; water solution used in pickling</td>
+    <td id="clue_J_2_4" class="clue_text">Craig Claiborne uses yellow tomatoes to make a "golden" type of this cold Spanish soup</td>
+    <td id="clue_J_2_5" class="clue_text">Grated for flavoring, it's the thin outer layer of a citrus fruit, or a synonym for gusto</td>
+    <td id="clue_J_3_1" class="clue_text">This American bayou dweller can survive a wider range of temperatures than most other crocodilians</td>
+    <td id="clue_J_3_2" class="clue_text">For the tuatara, these take 15 months to hatch</td>
+    <td id="clue_J_3_3" class="clue_text">This largest monitor lizard carries bacteria in its mouth, sometimes making its bite fatal</td>
+    <td id="clue_J_3_4" class="clue_text">The king snake is this type of snake that kills by coiling around its prey &amp; squeezing</td>
+    <td id="clue_J_3_5" class="clue_text">Though called a "toad", this North American desert creature is actually a lizard &amp; subsists mainly on ants</td>
+    <td id="clue_J_4_1" class="clue_text">During the Depression in 1932, it exceeded 20%</td>
+    <td id="clue_J_4_2" class="clue_text">A magazine, or a French miss</td>
+    <td id="clue_J_4_3" class="clue_text">It's the formal church procedure that declares a person a saint</td>
+    <td id="clue_J_4_4" class="clue_text">It's the type of dentist who specializes in treating diseases of the gum &amp; tissues</td>
+    <td id="clue_J_4_5" class="clue_text">A public street open at both ends, or any major boulevard</td>
+    <td id="clue_J_5_1" class="clue_text">Known as the "Say Hey Kid", he played 2,843 games in center field</td>
+    <td id="clue_J_5_2" class="clue_text">This late Green Bay Packers coach has the highest winning percentage in NFL history <span class="nobreak">--</span>- .740</td>
+    <td id="clue_J_5_3" class="clue_text">In the 1960s &amp; 1970s, she won 20 Wimbledon titles: 6 singles, 10 doubles &amp; 4 mixed doubles</td>
+    <td id="clue_J_5_4" class="clue_text">In 1986 at age 46, this "Golden Bear" became the oldest man to win the Masters golf tournament</td>
+    <td id="clue_J_5_5" class="clue_text">A 1951 playoff series homer by Bobby Thomson won the National League pennant for this team</td>
+    <td id="clue_J_6_1" class="clue_text">The third stanza of "Deutschlandlied"</td>
+    <td id="clue_J_6_2" class="clue_text">"Wilhelmus van Nassouwe"</td>
+    <td id="clue_J_6_3" class="clue_text">"Marcha Real"</td>
+    <td id="clue_J_6_4" class="clue_text">"La Brabanconne"</td>
+    <td id="clue_J_6_5" class="clue_text">"Land der Berge, Land am Strome"</td>

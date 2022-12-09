@@ -1,0 +1,30 @@
+    <td id="clue_J_1_1" class="clue_text">For the true outdoorsman: F&S</td>
+    <td id="clue_J_1_2" class="clue_text">Featuring pricing guides &amp; reviews of the latest cars &amp; trucks: MT</td>
+    <td id="clue_J_1_3" class="clue_text">Hey, y'all, for food, home &amp; travel from Texas to Florida &amp; the states in between: SL</td>
+    <td id="clue_J_1_4" class="clue_text">Eat, drink &amp; be merry: F&W</td>
+    <td id="clue_J_1_5" class="clue_text">For exciting things parents &amp; children can do together: Disney's FF</td>
+    <td id="clue_J_2_1" class="clue_text">In 1873 this gunmaker's company introduced its most popular revolver, the Peacemaker</td>
+    <td id="clue_J_2_2" class="clue_text">On October 2, 1871 this Mormon leader was arrested for practicing polygamy</td>
+    <td id="clue_J_2_3" class="clue_text">In November 1873 this Tammany Hall politician was convicted on 204 charges of fraud</td>
+    <td id="clue_J_2_4" class="clue_text">On June 16, 1870 this was dedicated in Atlantic City; at the end of the summer season, it was taken apart &amp; stored</td>
+    <td id="clue_J_2_5" class="clue_text">On June 21, 1877 10 alleged members of this Irish secret society were hanged in Penn.'s largest mass execution</td>
+    <td id="clue_J_3_1" class="clue_text">During Prohibition this Budweiser maker brewed non-alcoholic beer &amp; also made Bevo, a non-alcoholic cereal beverage</td>
+    <td id="clue_J_3_2" class="clue_text">The light beer from this brand is known as "The Silver Bullet"</td>
+    <td id="clue_J_3_3" class="clue_text">"La Cerveza Mas Fina" is written on this Mexican brand's "Extra" bottles</td>
+    <td id="clue_J_3_4" class="clue_text">In 1784 this Irish brewery was granted water rights to its nearby channel for 8,975 years; is that a record?</td>
+    <td id="clue_J_3_5" class="clue_text">"I don't always drink beer, but when I do, I prefer" this brand</td>
+    <td id="clue_J_4_1" class="clue_text">In the '60s: Brian Wilson &amp; Dennis Wilson</td>
+    <td id="clue_J_4_2" class="clue_text">Beginning in 1977: Timothy B. Schmit &amp; Don Henley</td>
+    <td id="clue_J_4_3" class="clue_text">Punk rockers with a "Longview": Mike Dirnt &amp; Tre Cool</td>
+    <td id="clue_J_4_4" class="clue_text">Livin' in "Paradise City" in the '80s: Duff McKagan &amp; Steven Adler</td>
+    <td id="clue_J_4_5" class="clue_text">True rock royalty: Jared &amp; Nathan Followill</td>
+    <td id="clue_J_5_1" class="clue_text">These protective devices typically feature a filter like charcoal to capture or alter potential poisons</td>
+    <td id="clue_J_5_2" class="clue_text">It's a piece between machine parts to prevent fluid from escaping</td>
+    <td id="clue_J_5_3" class="clue_text">To manipulate events, as Charles Boyer does to Ingrid Bergman to make her think she's crazy</td>
+    <td id="clue_J_5_4" class="clue_text">Whelks are these animals whose name is from the Greek for "stomach foot"</td>
+    <td id="clue_J_5_5" class="clue_text">The Romans called this historical French region Novempopulana</td>
+    <td id="clue_J_6_1" class="clue_text">Shelley's "Ode to the West Wind" asks, "if winter comes, can" this "be far behind?"</td>
+    <td id="clue_J_6_2" class="clue_text">Lord Byron sadly oded to this Italian city, "when thy marble walls are level with the waters..."</td>
+    <td id="clue_J_6_3" class="clue_text">Thomas Gray penned an "Ode on the Death of a Favourite" one of these, "Drowned in a Tub of Gold Fishes"</td>
+    <td id="clue_J_6_4" class="clue_text">This Lord Protector's "Return from Ireland" occasioned an ode by Andrew Marvell</td>
+    <td id="clue_J_6_5" class="clue_text">John Keats' odes include one "to" this season</td>

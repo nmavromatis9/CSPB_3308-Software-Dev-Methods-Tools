@@ -1,0 +1,30 @@
+    <td id="clue_DJ_1_1" class="clue_text">Lord Burghley convinced Elizabeth I to execute this rival for the throne</td>
+    <td id="clue_DJ_1_2" class="clue_text">(Cheryl of the Clue Crew in London with Parliament in the background)  As a tourist, I can visit the gallery, but since 1642 no British monarch has been allowed into this house of Parliament</td>
+    <td id="clue_DJ_1_3" class="clue_text">Britain signed its first agreement with France to build this in 1875</td>
+    <td id="clue_DJ_1_4" class="clue_text">Shire known for its gypsum &amp;, with Mr. Hood, its Rob-some</td>
+    <td id="clue_DJ_1_5" class="clue_text">The new flag this king introduced in 1606 combined the crosses of Saints Andrew &amp; George</td>
+    <td id="clue_DJ_2_1" class="clue_text">In 2002 this "Big Fat" success became the highest-grossing film never to have a No. 1 weekend at the box office</td>
+    <td id="clue_DJ_2_2" class="clue_text">This 1987 Danny DeVito-Richard Dreyfuss film about aluminum siding salesmen was set in 1963 Baltimore</td>
+    <td id="clue_DJ_2_3" class="clue_text">(Hi, I'm Leonard Maltin)  In this 1990 Martin Scorsese-directed film based on the book "Wiseguy", Scorsese's mother plays Joe Pesci's mom</td>
+    <td id="clue_DJ_2_4" class="clue_text">In this 2001 film, Kevin Spacey's character Prot insisted that he was from a planet 1,000 light years from Earth</td>
+    <td id="clue_DJ_2_5" class="clue_text">Madonna was set to play violin teacher Roberta Guaspari in "Music of the Heart", but this lady got the role</td>
+    <td id="clue_DJ_3_1" class="clue_text">Mary McCarthy famously said of Lillian Hellman, "Every word she writes is a lie, including and" &amp; this one</td>
+    <td id="clue_DJ_3_2" class="clue_text">This novelist &amp; author of "Advertisements for Myself" celebrated his 80th birthday on Jan. 31, 2003</td>
+    <td id="clue_DJ_3_3" class="clue_text">In 1913 he published his first book of poems as well as "Sons and Lovers"</td>
+    <td id="clue_DJ_3_4" class="clue_text">Tennyson used this rhyme scheme for "In Memoriam", quoted here<br /><i>I held it truth with him who sings, to one clear harp in diverse tones, that men may rise on stepping stones, of their dead selves to higher things</i></td>
+    <td id="clue_DJ_3_5" class="clue_text">(Jimmy of the Clue Crew in Oahu, Hawaii)  When this Scottish-born author took refuge in Samoa, he was known as Tusitala, or "story-teller"</td>
+    <td id="clue_DJ_4_1" class="clue_text">Of your 10 fingers, the 2 not normally used in playing the harp</td>
+    <td id="clue_DJ_4_2" class="clue_text">The orchestral harp has 7 double-action ones, each controlling one string in every octave</td>
+    <td id="clue_DJ_4_3" class="clue_text">The concert grand harp has this many strings, 3 more than half the number of keys on a piano</td>
+    <td id="clue_DJ_4_4" class="clue_text">In his autobiography, this movie harpist said, "I couldn't read a note of music"</td>
+    <td id="clue_DJ_4_5" class="clue_text">It's the Italian term for running your finger quickly up or down the keys of a piano or the strings of a harp</td>
+    <td id="clue_DJ_5_1" class="clue_text">He beat Goldwater in 1964</td>
+    <td id="clue_DJ_5_2" class="clue_text">He's the "Very Interesting" comedian seen here</td>
+    <td id="clue_DJ_5_3" class="clue_text">As a senator in March 1861, this future vice president branded the secessionists traitors</td>
+    <td id="clue_DJ_5_4" class="clue_text">This "King of the Delta Blues Singers" wrote classics like "Sweet Home Chicago" before dying young in 1938</td>
+    <td id="clue_DJ_5_5" class="clue_text">Winning the silver medal in the decathlon in 1956, he came back to win the gold in 1960</td>
+    <td id="clue_DJ_6_1" class="clue_text">In 1613 Samuel de Champlain visited the site of this future North American capital</td>
+    <td id="clue_DJ_6_2" class="clue_text">Siwa &amp; Bahriyah are 2 well-known examples of these green, fertile areas found in the Sahara</td>
+    <td id="clue_DJ_6_3" class="clue_text">The Pacific species of this animal can have an arm span more than 20 feet long</td>
+    <td id="clue_DJ_6_4" class="clue_text">This author wrote, "He had won the victory over himself.  He loved Big Brother"</td>
+    <td id="clue_DJ_6_5" class="clue_text">Magnetite is an important one of iron</td>

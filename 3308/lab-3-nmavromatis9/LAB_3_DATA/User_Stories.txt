@@ -1,0 +1,85 @@
+# ALL TEAMS SHOULD DO THE FOLLOWING STORIES:
+
+As a 	product manager
+I want	keep the project's status current each week
+So that 	all team members and stakeholders can see the progress being made
+
+As a 	developer
+I want	to create scripts to extract data from web pages
+So that 	I can populate tables in a database 
+
+As a 	developer
+I want	to create python programs to collect data from multiple files
+So that 	I can summarize the data in a simple output format
+
+As a 	team member
+I want	to design the tables and relationships for the database
+So that 	we can begin to extract data and populate the tables.
+
+As a 	team member
+I want	to design the basic web pages and transitions between pages for the project
+So that 	we have a consistent understanding of the features needed 
+
+
+# Select a random set from the following
+
+As a 	team member in my team 
+I want 	to have a communication channel to the team 
+So that 	I can contact my teammates with questions or news about the project.
+
+As a 	team
+I want 	to create a repository structure to hold all our project files
+So that 	we can easily share the work we complete.
+
+As a 	developer in a team
+I want 	to create a commitment and process to ensure quality
+So that 	I can rely on the product
+
+As a 	developer in a team
+I want 	to have a development environment set up
+So that 	I can start contributing to the project
+
+As a 	team member
+I want 	to have documentation of all the processes in our Project
+So that	we can share knowledge across team members
+
+As a 	team member 
+I want	to be able to write tests for the backend project 
+So that 	I can generate trust in my work 
+
+As a 	stakeholder
+I want	to be able to visit the GitHub page of this project at anytime
+So that 	I can get an overview of the architecture of the project
+
+As a 	stakeholder
+I want	to be able to visit the GitHub page of this project at anytime
+So that 	I can get an understanding of the status of the project
+
+As a 	team member 
+I want	to be able to use the project management software selected by the team
+So that 	I can see the status, my commitments, and future tasks
+
+As a 	developer 
+I want	to have the ability to easily add tests of new features
+So that 	I can ensure the build quality
+
+As a 	developer
+I want	to gain working knowledge of Full Stack 
+So that 	I can understand and develop the web server backend
+
+As a 	developer
+I want	to gain working knowledge of SQL
+So that 	I can understand and develop the database backend
+
+As a 	developer
+I want	to gain working knowledge of Flask
+So that 	I can understand and develop the web server backend
+
+As a 	developer
+I want	to gain working knowledge of Heroku
+So that 	I can understand how to deploy our project
+
+As a 	team
+I want	to create a shared layout and style for all pages rendered by backed web server
+So that 	we can have a consistent look and feel for our project.
+

@@ -1,0 +1,60 @@
+    <td id="clue_DJ_1_1" class="clue_text">From 1983 to 1986 she was the permanent guest host of the "Tonight Show"</td>
+    <td id="clue_DJ_1_2" class="clue_text">After watching her on "Good Morning America", you can exercise to her video "Workout America"</td>
+    <td id="clue_DJ_1_3" class="clue_text">"The Night They Drove Old Dixie Down" was her only hit to reach the Top 10</td>
+    <td id="clue_DJ_1_4" class="clue_text">She appeared in "Addams Family Values" &amp; opposite her brother John in "Say Anything"</td>
+    <td id="clue_DJ_1_5" class="clue_text">Laurence Olivier's widow, she was featured in the movies "Enchanted April", "Avalon" &amp; "Dennis the Menace"</td>
+    <td id="clue_DJ_2_1" class="clue_text">Iran's richest oil deposits lie in the Khuzistan Plain just north of this gulf</td>
+    <td id="clue_DJ_2_2" class="clue_text">The island republic of the Comoros lies near Madagascar in this ocean</td>
+    <td id="clue_DJ_2_3" class="clue_text">At least 1500 islands make up this group in the St. Lawrence River</td>
+    <td id="clue_DJ_2_4" class="clue_text">Most of Sri Lanka's shipping comes through this port</td>
+    <td id="clue_DJ_2_5" class="clue_text">Vatnajokull Glacier in this country is bigger than all continental Europe's glaciers combined</td>
+    <td id="clue_DJ_3_1" class="clue_text">He's the only U.S. president inaugurated in New York City</td>
+    <td id="clue_DJ_3_2" class="clue_text">This independent agency, the GSA, manages the U.S. government's equipment &amp; property</td>
+    <td id="clue_DJ_3_3" class="clue_text">Of the 9 current members of the U.S. Supreme Court, this chief justice has served the longest, 24 years</td>
+    <td id="clue_DJ_3_4" class="clue_text">This U.S. government agency administers the Fair Packaging &amp; Labeling Act, among others</td>
+    <td id="clue_DJ_3_5" class="clue_text">2 of 7 states with only 1 member in the House of Representatives</td>
+    <td id="clue_DJ_4_1" class="clue_text">This co-founder of the Chinese Communist Party worked as a library assistant at Beijing University</td>
+    <td id="clue_DJ_4_2" class="clue_text">7 U.S. counties are named for this steamboat pioneer</td>
+    <td id="clue_DJ_4_3" class="clue_text">In January 1991, this First Lady broke her leg while sledding at Camp David</td>
+    <td id="clue_DJ_4_4" class="clue_text">This 1st Indian prime minister was born to a Kashmiri family of Brahmans, the most aristocratic caste</td>
+    <td id="clue_DJ_4_5" class="clue_text">In 1817, with Laurent Clerc, he established what became the American School for the Deaf in Hartford</td>
+    <td id="clue_DJ_5_1" class="clue_text">Heating values of the bituminous type of this range from about 5,600 to 8,000 calories per gram</td>
+    <td id="clue_DJ_5_2" class="clue_text">This ore of aluminum was named for Les Baux, a place in southeast France</td>
+    <td id="clue_DJ_5_3" class="clue_text">The name of this hard igneous rock comes from Latin for "grain"</td>
+    <td id="clue_DJ_5_4" class="clue_text">Amethyst is an example of this mineral, nearly pure silicon dioxide</td>
+    <td id="clue_DJ_6_1" class="clue_text">This Norwegian's play "Bygmester Solness", or "The Master Builder", was published in 1892</td>
+    <td id="clue_DJ_6_2" class="clue_text">This "Virginia Woolf" playwright's one-act "The Zoo Story" is set on a Central Park bench</td>
+    <td id="clue_DJ_6_3" class="clue_text">Jean-Louis Barrault directed the first production of this playwright's "Rhinoceros"</td>
+    <td id="clue_DJ_6_4" class="clue_text">The subject of his play "The Emperor Jones" was suggested to him by Haitian history</td>
+    <td id="clue_DJ_6_5" class="clue_text">This Pirandello play about a sextet of strange personages premiered in 1921</td>
+    <td id="clue_FJ" class="clue_text">His "Young Corn" painting is featured on a 1996 stamp celebrating the 150th anniversary of Iowa's statehood</td>
+    <td id="clue_J_1_1" class="clue_text">He gets right to the point, the ear point, in "I Am Spock"</td>
+    <td id="clue_J_1_2" class="clue_text">She tells of life before &amp; after Burt in "My Life in High Heels"</td>
+    <td id="clue_J_1_3" class="clue_text">Her book is "After All", after all, her show's theme song ended "You're gonna make it after all"</td>
+    <td id="clue_J_1_4" class="clue_text">"Palimpsest" is "A Memoir" by this "Burr" author</td>
+    <td id="clue_J_1_5" class="clue_text">"A Good Life: Newspapering and Other Adventures" is by this former Washington Post editor</td>
+    <td id="clue_J_2_1" class="clue_text">Croutons may be substituted for breadcrumbs in this traditional Thanksgiving side dish</td>
+    <td id="clue_J_2_2" class="clue_text">Joy of Cooking suggests serving slices of this guacamole ingredient with chutney as an hors d'oeuvre</td>
+    <td id="clue_J_2_3" class="clue_text">Sugar or molasses may be added to this salt &amp; water solution used in pickling</td>
+    <td id="clue_J_2_4" class="clue_text">Craig Claiborne uses yellow tomatoes to make a "golden" type of this cold Spanish soup</td>
+    <td id="clue_J_2_5" class="clue_text">Grated for flavoring, it's the thin outer layer of a citrus fruit, or a synonym for gusto</td>
+    <td id="clue_J_3_1" class="clue_text">This American bayou dweller can survive a wider range of temperatures than most other crocodilians</td>
+    <td id="clue_J_3_2" class="clue_text">For the tuatara, these take 15 months to hatch</td>
+    <td id="clue_J_3_3" class="clue_text">This largest monitor lizard carries bacteria in its mouth, sometimes making its bite fatal</td>
+    <td id="clue_J_3_4" class="clue_text">The king snake is this type of snake that kills by coiling around its prey &amp; squeezing</td>
+    <td id="clue_J_3_5" class="clue_text">Though called a "toad", this North American desert creature is actually a lizard &amp; subsists mainly on ants</td>
+    <td id="clue_J_4_1" class="clue_text">During the Depression in 1932, it exceeded 20%</td>
+    <td id="clue_J_4_2" class="clue_text">A magazine, or a French miss</td>
+    <td id="clue_J_4_3" class="clue_text">It's the formal church procedure that declares a person a saint</td>
+    <td id="clue_J_4_4" class="clue_text">It's the type of dentist who specializes in treating diseases of the gum &amp; tissues</td>
+    <td id="clue_J_4_5" class="clue_text">A public street open at both ends, or any major boulevard</td>
+    <td id="clue_J_5_1" class="clue_text">Known as the "Say Hey Kid", he played 2,843 games in center field</td>
+    <td id="clue_J_5_2" class="clue_text">This late Green Bay Packers coach has the highest winning percentage in NFL history <span class="nobreak">--</span>- .740</td>
+    <td id="clue_J_5_3" class="clue_text">In the 1960s &amp; 1970s, she won 20 Wimbledon titles: 6 singles, 10 doubles &amp; 4 mixed doubles</td>
+    <td id="clue_J_5_4" class="clue_text">In 1986 at age 46, this "Golden Bear" became the oldest man to win the Masters golf tournament</td>
+    <td id="clue_J_5_5" class="clue_text">A 1951 playoff series homer by Bobby Thomson won the National League pennant for this team</td>
+    <td id="clue_J_6_1" class="clue_text">The third stanza of "Deutschlandlied"</td>
+    <td id="clue_J_6_2" class="clue_text">"Wilhelmus van Nassouwe"</td>
+    <td id="clue_J_6_3" class="clue_text">"Marcha Real"</td>
+    <td id="clue_J_6_4" class="clue_text">"La Brabanconne"</td>
+    <td id="clue_J_6_5" class="clue_text">"Land der Berge, Land am Strome"</td>

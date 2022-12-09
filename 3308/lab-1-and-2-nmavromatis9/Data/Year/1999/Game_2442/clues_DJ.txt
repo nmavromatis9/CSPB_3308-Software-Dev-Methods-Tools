@@ -1,0 +1,30 @@
+    <td id="clue_DJ_1_1" class="clue_text">Among the items that have been sold on her website are a Coven party fan &amp; Lestat cologne &amp; wine</td>
+    <td id="clue_DJ_1_2" class="clue_text">This comedienne's "Fried Green Tomatoes at the Whistle Stop Cafe" was inspired by her aunt's cafe in Alabama</td>
+    <td id="clue_DJ_1_3" class="clue_text">He gave us the line "Love means never having to say you're sorry"</td>
+    <td id="clue_DJ_1_4" class="clue_text">He published "The Andromeda Strain" in 1969, during his last year in medical school</td>
+    <td id="clue_DJ_1_5" class="clue_text">Several of her suspense novels including "Let Me Call You Sweetheart" derive their titles from old songs</td>
+    <td id="clue_DJ_2_1" class="clue_text">Turkey invaded the northern part of this island nation in 1974</td>
+    <td id="clue_DJ_2_2" class="clue_text">After freeing it from France, Toussaint L'Ouverture became the first ruler of this nation</td>
+    <td id="clue_DJ_2_3" class="clue_text">By 900 A.D. Harold Fairhair had become the first king of this Scandinavian nation</td>
+    <td id="clue_DJ_2_4" class="clue_text">Under the leadership of Nasser, this union of Egypt &amp; Syria was proclaimed Feb. 1, 1958</td>
+    <td id="clue_DJ_2_5" class="clue_text">Until 1972 this was the name of the Indian Ocean island whose current name means "resplendent land"</td>
+    <td id="clue_DJ_3_1" class="clue_text">Thoreau wrote that this "is the bared and bended arm of Massachusetts: the shoulder is at Buzzards Bay"</td>
+    <td id="clue_DJ_3_2" class="clue_text">John Adams wrote of this 1773 event, "There is a dignity, a majesty...in this last effort of the patriots that I greatly admire"</td>
+    <td id="clue_DJ_3_3" class="clue_text">This American said of April 12, 1945, "I felt like the moon and the stars and all the planets had fallen on me"</td>
+    <td id="clue_DJ_3_4" class="clue_text">This Spaniard's mom said if he were a monk, he'd wind up pope; he said, "Instead, I became a painter &amp; wound up as (me)"</td>
+    <td id="clue_DJ_3_5" class="clue_text">Wordsworth called this author's "Candide" a "dull product of a scoffer's pen"</td>
+    <td id="clue_DJ_4_1" class="clue_text">Stallone's 3-movie Vietnam vet</td>
+    <td id="clue_DJ_4_2" class="clue_text">This actress gave birth to Robertino Rossellini in 1950</td>
+    <td id="clue_DJ_4_3" class="clue_text">"How Green Was My Valley" won a Best Picture Oscar for this year, the same year "Citizen Kane" was released</td>
+    <td id="clue_DJ_4_4" class="clue_text">Klaus Kinski played this title sucker in 1979; Max Schreck played him in 1922</td>
+    <td id="clue_DJ_4_5" class="clue_text">Donald Pleasance &amp; Charles Gray have both portrayed this diabolical James Bond nemesis</td>
+    <td id="clue_DJ_5_1" class="clue_text">After this city fell April 2, 1865, federal troops placed a Union flag on top of the Confederate capitol</td>
+    <td id="clue_DJ_5_2" class="clue_text">In 1863 Lincoln met with this orator who urged full equality for black troops</td>
+    <td id="clue_DJ_5_3" class="clue_text">This Confederate general with the given names James Ewell Brown was famous for his rides "around McClellan"</td>
+    <td id="clue_DJ_5_4" class="clue_text">Ezra Church &amp; Chickamauga were among the battles fought in this state</td>
+    <td id="clue_DJ_5_5" class="clue_text">After moving to England, this Confederate spy married her former captor, lieutenant Sam Hardinge</td>
+    <td id="clue_DJ_6_1" class="clue_text">He was added &amp; cut from Pamela Anderson's life</td>
+    <td id="clue_DJ_6_2" class="clue_text">In the '70s this golfer's followers were known as his "Fleas"</td>
+    <td id="clue_DJ_6_3" class="clue_text">At an early age, she stripped herself of the name Rose Louise Hovick</td>
+    <td id="clue_DJ_6_4" class="clue_text">In a high-round draft choice in 1994, the Pistons picked up steam with the addition of this player</td>
+    <td id="clue_DJ_6_5" class="clue_text">The bill creating these colleges was signed into law by Abraham Lincoln</td>

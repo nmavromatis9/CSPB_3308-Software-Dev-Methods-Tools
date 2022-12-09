@@ -1,0 +1,1 @@
+    <td id="clue_FJ" class="clue_text">His first name means "moderate"; sadly, immoderate drinking helped kill him in 1881 at age 42, but not on Bald Mountain</td>

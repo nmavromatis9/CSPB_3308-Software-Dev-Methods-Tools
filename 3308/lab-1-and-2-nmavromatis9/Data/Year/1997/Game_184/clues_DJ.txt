@@ -1,0 +1,30 @@
+    <td id="clue_DJ_1_1" class="clue_text">Until 1990 it was the capital of West Germany</td>
+    <td id="clue_DJ_1_2" class="clue_text">Poland's third-largest city, its name can be spelled with 2 K's or with 2 C's</td>
+    <td id="clue_DJ_1_3" class="clue_text">1 of only 2 Asian cities that hosted the Summer Olympics</td>
+    <td id="clue_DJ_1_4" class="clue_text">After Rhodesia became this country, Salisbury, its capital, became Harare</td>
+    <td id="clue_DJ_1_5" class="clue_text">A church in this Italian city contains the tomb of Saint Anthony</td>
+    <td id="clue_DJ_2_1" class="clue_text">This common Catholic prayer to Mary, the mother of Jesus, is often set to music</td>
+    <td id="clue_DJ_2_2" class="clue_text">In Hinduism the ashes of the dead are cast into this river to insure safe passage from this life</td>
+    <td id="clue_DJ_2_3" class="clue_text">This term used to designate all monks in Tibetan Buddhism means "superior one"</td>
+    <td id="clue_DJ_2_4" class="clue_text">One symbol of this Japanese religion is the Torii, a large gate traditionally made of wood</td>
+    <td id="clue_DJ_2_5" class="clue_text">On May 1, 1738, he &amp; some friends began a "little society" that prefigured later Methodist societies</td>
+    <td id="clue_DJ_3_1" class="clue_text">This term for a powerful business leader comes from the Latin for "great"<span class="nobreak">--</span>magnus</td>
+    <td id="clue_DJ_3_2" class="clue_text">A quint has at least this many siblings</td>
+    <td id="clue_DJ_3_3" class="clue_text">Synonyms for this adjective include evil, unlucky, &amp; to the left</td>
+    <td id="clue_DJ_3_4" class="clue_text">In 1907 humorist Gelett Burgess coined this word for the praising quotes on book jackets</td>
+    <td id="clue_DJ_3_5" class="clue_text">It's a term or expression used in place of an indelicate or taboo term</td>
+    <td id="clue_DJ_4_1" class="clue_text">The Ritz-Carlton hotel in this Mass. capital is the setting for Moss Hart's comedy "Light Up the Sky"</td>
+    <td id="clue_DJ_4_2" class="clue_text">Female impersonator Charles Busch called his 1996 New York show "Flipping My" this</td>
+    <td id="clue_DJ_4_3" class="clue_text">James Earl Jones appeared as Lennie in a 1974 revival of this play based on a Steinbeck novel</td>
+    <td id="clue_DJ_4_4" class="clue_text">Charlie Chaplin's son Sydney earned a Tony nomination for playing Nick Arenstein in this 1964 musical</td>
+    <td id="clue_DJ_4_5" class="clue_text">His expressionistic 1922 play "The Hairy Ape" opens in the firemen's forecastle of an ocean liner</td>
+    <td id="clue_DJ_5_1" class="clue_text">During the Spanish-American War, his unit first saw action June 24, 1898 at Las Guasimas, Cuba</td>
+    <td id="clue_DJ_5_2" class="clue_text">Referring to his initials, classmates at West Point began calling him Uncle Sam</td>
+    <td id="clue_DJ_5_3" class="clue_text">He was the first president to serve 2 terms in office</td>
+    <td id="clue_DJ_5_4" class="clue_text">In 1832 this president vetoed the recharter of the Second Bank of the United States</td>
+    <td id="clue_DJ_5_5" class="clue_text">On March 4, 1853 this president gave his inauguration address from memory without notes</td>
+    <td id="clue_DJ_6_1" class="clue_text">This region, the namesake of a blues style, is a plain hundreds of miles from the Mississippi's mouth</td>
+    <td id="clue_DJ_6_2" class="clue_text">A famous 1914 composition by W.C. Handy or Missouri's professional hockey team</td>
+    <td id="clue_DJ_6_3" class="clue_text">In the 1960s this still-rocking British rock band took its name from a Muddy Waters blues classic</td>
+    <td id="clue_DJ_6_4" class="clue_text">With his band Double Trouble, this Texas guitar wizard led a blues revival until his death in 1990</td>
+    <td id="clue_DJ_6_5" class="clue_text">Known as the "Empress of the Blues", this singer often recorded with jazz great Louis Armstrong</td>

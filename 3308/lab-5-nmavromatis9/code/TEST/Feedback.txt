@@ -1,0 +1,18 @@
+Testing exceptions:
+
+Testing Count:
+
+Testing Alpha:
+(-2) Missing all alpha characters in tests 
+(-2) Missing all digit characters in tests 
+
+Testing Numeric:
+(-2) Missing all alpha characters in tests 
+
+Testing Vowels:
+(-2) Missing all alpha characters in tests 
+(-2) Missing all digit characters in tests 
+
+Testing Phone Number:
+
+Fixing CharacterCounter Bugs:

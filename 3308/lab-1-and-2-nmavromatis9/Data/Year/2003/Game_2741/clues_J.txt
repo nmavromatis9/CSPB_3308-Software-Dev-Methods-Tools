@@ -1,0 +1,30 @@
+    <td id="clue_J_1_1" class="clue_text">When the natives wanted to form an alliance with the Europeans, they shared a calumet stuffed with this</td>
+    <td id="clue_J_1_2" class="clue_text">The Sanpoil, who lived on this river, selected a special salmon chief each fishing season</td>
+    <td id="clue_J_1_3" class="clue_text">To the Iroquois, the "Three Sisters" were squash, beans &amp; this</td>
+    <td id="clue_J_1_4" class="clue_text">On his second voyage over, Jacques Cartier thought this river was the best choice for a route to Asia</td>
+    <td id="clue_J_1_5" class="clue_text">Hot on the trail of 7 magnificent cities, Estevanico called the first one this, entered it &amp; was killed there</td>
+    <td id="clue_J_2_1" class="clue_text">This model spent most of the '90s married to Mick Jagger</td>
+    <td id="clue_J_2_2" class="clue_text">Patti Boyd, who inspired this rocker's "Layla", married him after leaving hubby George Harrison</td>
+    <td id="clue_J_2_3" class="clue_text">Patti Scialfa is married to this rocker for whom she sings back-up</td>
+    <td id="clue_J_2_4" class="clue_text">Just days after her divorce from Sonny, Cher married this guitarist</td>
+    <td id="clue_J_2_5" class="clue_text">The 2 rockers whom Heather Locklear married</td>
+    <td id="clue_J_3_1" class="clue_text">Florida, Puerto Rico &amp; this form the apexes of a triangle within which ships &amp; planes disappear</td>
+    <td id="clue_J_3_2" class="clue_text">The Witiko creature of Algonquian myth may be a forerunner of this mystery of the Northwest</td>
+    <td id="clue_J_3_3" class="clue_text">A reader of these checks out the Line of Mars &amp; Mount of Venus</td>
+    <td id="clue_J_3_4" class="clue_text">Meaning "far movement", it's the strange power of moving things without touching them</td>
+    <td id="clue_J_3_5" class="clue_text">Appropriately, Champ is the name of this lake's version of Nessie, the Loch Ness Monster</td>
+    <td id="clue_J_4_1" class="clue_text">Comedian &amp; actor Richard Marin</td>
+    <td id="clue_J_4_2" class="clue_text">The very representative Thomas P. O'Neill</td>
+    <td id="clue_J_4_3" class="clue_text">Would-be assassin Lynette Fromme</td>
+    <td id="clue_J_4_4" class="clue_text">Hereditary Haitian honcho Jean-Claude Duvalier</td>
+    <td id="clue_J_4_5" class="clue_text">Expeditious superagent to the stars Irving Lazar</td>
+    <td id="clue_J_5_1" class="clue_text">Developed by British inventor John Starley, the safety bicycle features these of equal size</td>
+    <td id="clue_J_5_2" class="clue_text">Anthropologist Francis Galton notes the uniqueness of these for every individual, a help to police</td>
+    <td id="clue_J_5_3" class="clue_text">Designed by William L. Jenney, the first of these buildings, the 10-story Home Insurance Co., goes up in Chicago</td>
+    <td id="clue_J_5_4" class="clue_text">German engineer Carl Friedrich Benz develops the first working one of these powered by a gasoline engine</td>
+    <td id="clue_J_5_5" class="clue_text">American electrical engineer William Stanley invents this device for changing energy from AC to DC</td>
+    <td id="clue_J_6_1" class="clue_text">Number of partners in a duumvirate</td>
+    <td id="clue_J_6_2" class="clue_text">Somniloquists do this in their sleep</td>
+    <td id="clue_J_6_3" class="clue_text">This word can mean a representation of the nativity or a hospital for abandoned children</td>
+    <td id="clue_J_6_4" class="clue_text">This wind that rolls down the eastern Rockies derives its name from an Indian word for "snow eater"</td>
+    <td id="clue_J_6_5" class="clue_text">This word for a trite phrase is borrowed from the French where it means "a stereotype plate" for printing</td>

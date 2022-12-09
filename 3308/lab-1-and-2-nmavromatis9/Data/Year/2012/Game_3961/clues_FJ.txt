@@ -1,0 +1,1 @@
+    <td id="clue_FJ" class="clue_text">This sport introduced in Summer 2000 plays out over a raised area 16 1/2 feet long &amp; 9 1/2 feet wide</td>

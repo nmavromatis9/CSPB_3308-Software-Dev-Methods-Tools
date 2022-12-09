@@ -1,0 +1,30 @@
+    <td id="clue_J_1_1" class="clue_text">When Montezuma II came to power in 1502, this empire was at its height</td>
+    <td id="clue_J_1_2" class="clue_text">Rulers of this Italian dynasty included Cosimo, Duke of Florence, &amp; Lorenzo, the Magnificent</td>
+    <td id="clue_J_1_3" class="clue_text">Peter II, the last king of this country, was dethroned when Tito came to power in 1945</td>
+    <td id="clue_J_1_4" class="clue_text">An enscribed gold scarab found in 1986 suggests that this wife of Akhenaton briefly ruled in her own right</td>
+    <td id="clue_J_1_5" class="clue_text">In 1940, after he'd abdicated the British throne, he became governor of the Bahamas</td>
+    <td id="clue_J_2_1" class="clue_text">Among these animals to have their own 1994 calendars are Felix &amp; Garfield</td>
+    <td id="clue_J_2_2" class="clue_text">This Southern Baptist evangelist &amp; friend of presidents has a 1994 day-by-day desk calendar</td>
+    <td id="clue_J_2_3" class="clue_text">This pair has a "thumbs up, thumbs down” calendar of movie reviews</td>
+    <td id="clue_J_2_4" class="clue_text">Your days are numbered with this "Mistress of the Dark"</td>
+    <td id="clue_J_2_5" class="clue_text">After years of being part of the group in the Sports Illustrated calendars, <a href="http://www.j-archive.com/media/1994-05-06_J_25.jpg" target="_blank">she</a> now has her own:</td>
+    <td id="clue_J_3_1" class="clue_text">KLAX, the top-rated radio station in Los Angeles for the 4th quarter of 1993, broadcasts in this language</td>
+    <td id="clue_J_3_2" class="clue_text">You may catch a smokey report on your CB, which stands for this</td>
+    <td id="clue_J_3_3" class="clue_text">This former Tennessee senator is the administration's main promoter of the "Information Superhighway"</td>
+    <td id="clue_J_3_4" class="clue_text">CNN's Gulf War coverage won a Cable Ace Award &amp; this channel won a Golden Ace for its coverage of Hurricane Hugo</td>
+    <td id="clue_J_3_5" class="clue_text">Until the 1980s it took these devices, first patented in 1843, about 4 minutes to send 1 page</td>
+    <td id="clue_J_4_1" class="clue_text">The Libyan Desert is actually the northeastern portion of this desert</td>
+    <td id="clue_J_4_2" class="clue_text">Harbors dotting this country's coastline include Port Pirie, Port Darwin &amp; Port Adelaide</td>
+    <td id="clue_J_4_3" class="clue_text">This largest island of Greece is the fifth-largest island in the Mediterranean</td>
+    <td id="clue_J_4_4" class="clue_text">Gebel Katherina, this country's highest mountain, stands on the Sinai Peninsula</td>
+    <td id="clue_J_4_5" class="clue_text">The Loire River of France flows 634 miles before emptying into this bay</td>
+    <td id="clue_J_5_1" class="clue_text">When you bake these in their jackets, puncture them with a fork when they're half done</td>
+    <td id="clue_J_5_2" class="clue_text">This, which the French call moutarde, is a popular ingredient in sauces</td>
+    <td id="clue_J_5_3" class="clue_text">Lemon curd is a mixture of lemon juice, butter, sugar &amp; these breakfast items</td>
+    <td id="clue_J_5_4" class="clue_text">In general the giblets of a fowl are the heart, liver &amp; this organ</td>
+    <td id="clue_J_5_5" class="clue_text">One recipe for this pie filling calls for 4 pounds of beef, 2 pounds of suet &amp; 3 pounds of dark brown sugar</td>
+    <td id="clue_J_6_1" class="clue_text">A light rain</td>
+    <td id="clue_J_6_2" class="clue_text">Many scavenger birds, especially certain hawks &amp; vultures, are referred to by this name</td>
+    <td id="clue_J_6_3" class="clue_text">In most states a public officer who diverts public funds for his own use can be convicted of this crime</td>
+    <td id="clue_J_6_4" class="clue_text">Poetically speaking, he's a bear with no hair</td>
+    <td id="clue_J_6_5" class="clue_text">An instrumental piece in the middle of an opera, or a brief entertainment between 2 acts of a play</td>

@@ -1,0 +1,1 @@
+    <td id="clue_FJ" class="clue_text">"Red Vineyard" was one of the few of his paintings sold during his lifetime</td>

@@ -1,0 +1,30 @@
+    <td id="clue_J_1_1" class="clue_text">When Iraq invaded this neighbor, its emir, Sheik Jabir Al-Ahmad Al-Sabah, fled to Saudi Arabia</td>
+    <td id="clue_J_1_2" class="clue_text">Of 10, 100 or 1000, the length of the ground war in hours</td>
+    <td id="clue_J_1_3" class="clue_text">As chairman of the Joint Chiefs of Staff, he played a leading role in directing the coalition war effort</td>
+    <td id="clue_J_1_4" class="clue_text">This general who commanded the Allied forces is the son of a brigadier general</td>
+    <td id="clue_J_1_5" class="clue_text">Saddam Hussein's elite military force, reportedly the best trained &amp; best equipped of the Iraqi army</td>
+    <td id="clue_J_2_1" class="clue_text">Don't like doing this?  You can use a sponge in a saucer or just lick the corner of the envelope instead</td>
+    <td id="clue_J_2_2" class="clue_text">Heloise suggests filling this in your car with potpourri; it smells nice &amp; keeps others from using it</td>
+    <td id="clue_J_2_3" class="clue_text">Don't have one in your hotel room?  Use a hot light bulb or hang your clothes in the bathroom while you shower</td>
+    <td id="clue_J_2_4" class="clue_text">After buying flour, store it here for at least a week to destroy any infestations</td>
+    <td id="clue_J_2_5" class="clue_text">To remove an excess of this from soup add slices of raw potato to absorb it</td>
+    <td id="clue_J_3_1" class="clue_text">Experts suggest you begin this game by moving 1 or 2 pawns before bringing knights into play</td>
+    <td id="clue_J_3_2" class="clue_text">Rich Uncle Pennybags is the name of the mustached character on this game's box, board &amp; cards</td>
+    <td id="clue_J_3_3" class="clue_text">Among this company's games are Boggle, Risk &amp; Sorry</td>
+    <td id="clue_J_3_4" class="clue_text">In one version of this game, 108 tiles are grouped into 3 suits:  dots, bams &amp; craks</td>
+    <td id="clue_J_3_5" class="clue_text">In 1931 architect Alfred M. Butts developed this board-&amp;-tile game, calling it Crisscrosswords</td>
+    <td id="clue_J_4_1" class="clue_text">This building in Albany is bounded by Washington Avenue &amp; Swan, State &amp; Eagle Streets</td>
+    <td id="clue_J_4_2" class="clue_text">Troy, New York was home to the meatpacker who inspired this national symbol</td>
+    <td id="clue_J_4_3" class="clue_text">A N. Tarrytown bridge named for this Washington Irving rider once stood where US9 crosses the Pocantico River</td>
+    <td id="clue_J_4_4" class="clue_text">Val-Kill in Hyde Park was this first lady's retreat</td>
+    <td id="clue_J_4_5" class="clue_text">The top of the Skylon Tower soars 775' above this natural landmark</td>
+    <td id="clue_J_5_1" class="clue_text">On June 10, 1996 her syndicated talk show debuted with George Clooney &amp; Susan Lucci as guests</td>
+    <td id="clue_J_5_2" class="clue_text">The theme song to this Tim Daly sitcom is based on the fourth movement of Schubert's Piano Sonata in A Major</td>
+    <td id="clue_J_5_3" class="clue_text">This Phil Silvers character was master sergeant of the motor pool at Fort Baxter, Kansas</td>
+    <td id="clue_J_5_4" class="clue_text">In 1996 he won the first acting Emmy for a cable TV series for playing Artie on "The Larry Sanders Show"</td>
+    <td id="clue_J_5_5" class="clue_text">In this 1950s sitcom Theodore's classmates at Grant Ave. School included Larry Mondello, Gilbert Bates &amp; Whitey</td>
+    <td id="clue_J_6_1" class="clue_text">Romanians call this day Joi, while Swedes know it as Torsdag</td>
+    <td id="clue_J_6_2" class="clue_text">When sightsseing in France, you should know that entree libre means this</td>
+    <td id="clue_J_6_3" class="clue_text">In Portuguese these 2 antonyms are cedo &amp; tarde</td>
+    <td id="clue_J_6_4" class="clue_text">In Spain you might go shopping for una chaqueta <span class="nobreak">--</span> a jacket <span class="nobreak">--</span> made of cuero, this</td>
+    <td id="clue_J_6_5" class="clue_text">In the Netherlands this popular winter sport is called schaatsenrijden</td>

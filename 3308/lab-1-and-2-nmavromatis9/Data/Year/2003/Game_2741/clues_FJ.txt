@@ -1,0 +1,1 @@
+    <td id="clue_FJ" class="clue_text">Odobenus, the genus name of this animal, comes from the Greek for "one who walks with his teeth"</td>

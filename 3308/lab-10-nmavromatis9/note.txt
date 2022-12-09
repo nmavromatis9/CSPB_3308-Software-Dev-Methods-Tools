@@ -1,0 +1,17 @@
+#Steps to get flask to work on local host:
+
+1. source venv/bin/activate
+
+#activate venv, from correct directory
+
+2. export FLASK_RUN_PORT=3308 
+
+export FLASK_DEBUG=on
+
+#This didn't work when running from .sh file. So type into BASH
+
+3. flask --app lab10_app run
+
+4.# Type into browser (local host): https://coding.CSEL.io/user/nima6629/proxy/3308/game 
+
+Hope this is helpful. 

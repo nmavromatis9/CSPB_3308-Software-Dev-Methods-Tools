@@ -1,0 +1,1 @@
+    <td id="clue_FJ" class="clue_text">In the 1830s settlers gave this city its name in the hope of having the University of Mississippi placed there</td>

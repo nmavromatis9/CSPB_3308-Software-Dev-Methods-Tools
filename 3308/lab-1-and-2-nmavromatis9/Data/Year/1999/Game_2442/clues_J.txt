@@ -1,0 +1,29 @@
+    <td id="clue_J_1_1" class="clue_text">The name of this partner of Bosnia means "independent duchy"</td>
+    <td id="clue_J_1_2" class="clue_text">Around 1015 it cut the mustard to be named capital of the duchy of Burgundy</td>
+    <td id="clue_J_1_3" class="clue_text">In 1137 she inherited the duchy of Aquitaine &amp; married Louis VII</td>
+    <td id="clue_J_1_4" class="clue_text">The area of the duchy of Brabant is split today between the Netherlands &amp; this country</td>
+    <td id="clue_J_1_5" class="clue_text">The European Investment Bank is headquartered in this grand duchy</td>
+    <td id="clue_J_2_1" class="clue_text">Popular '50s kids' show that featured the clown seen here<br />("Clarabell")</td>
+    <td id="clue_J_2_2" class="clue_text">In 1994 Annie Fratellini became the first woman inducted into this Wisconsin site</td>
+    <td id="clue_J_2_3" class="clue_text">(Bozo the Clown speaking)  In October 1998 a big rig hauling 10 tons of these overturned on an L.A. freeway; Soupy Sales wasn't responsible (laughing)</td>
+    <td id="clue_J_2_4" class="clue_text">The ISCA is an association of this Masonic organization's clowns</td>
+    <td id="clue_J_2_5" class="clue_text">This clown stars in the animated video "The Legend of Grimace Island"</td>
+    <td id="clue_J_3_1" class="clue_text">Nathan Hale Executed for Spying!</td>
+    <td id="clue_J_3_2" class="clue_text">"Jeopardy!" Returns!  Alex Trebek Hosts!</td>
+    <td id="clue_J_3_3" class="clue_text">Charlton Heston's "Ben-Hur" Premieres!</td>
+    <td id="clue_J_3_4" class="clue_text">Treaty of Ghent Signed Ending War of 1812!</td>
+    <td id="clue_J_4_1" class="clue_text">Wes Cherry developed the version of this card game for one that came with Windows 95</td>
+    <td id="clue_J_4_2" class="clue_text">Put on your glasses to play this 48-card game; its name is from binocle, "pince-nez"</td>
+    <td id="clue_J_4_3" class="clue_text">Fun for all ages, it's the game demonstrated here</td>
+    <td id="clue_J_4_4" class="clue_text">In the game of authors, it takes this many cards to form a "book"</td>
+    <td id="clue_J_4_5" class="clue_text">In Vegas casinos the 8 decks used to play baccarat are held in &amp; dealt from a really big one of these</td>
+    <td id="clue_J_5_1" class="clue_text">You might start off your meal with half a grapefruit or these dried plums stewed</td>
+    <td id="clue_J_5_2" class="clue_text">Tired of eating Special K from a bowl?  It also comes in the form of these round waffles from Kellogg's</td>
+    <td id="clue_J_5_3" class="clue_text">Like Eggs Benedict, Eggs Sardou is topped with this creamy sauce</td>
+    <td id="clue_J_5_4" class="clue_text">Craig Claiborne says, "Breakfast in the South without" this side dish "borders on the unthinkable"</td>
+    <td id="clue_J_5_5" class="clue_text">Often cooked with vegetables &amp; served open-faced, it's the Italian version of an omelet</td>
+    <td id="clue_J_6_1" class="clue_text">Many a slugabed has been reminded that "The early bird catches" this</td>
+    <td id="clue_J_6_2" class="clue_text">Originally a place in which fowl fought, it now often refers to the pilot's compartment in an airplane</td>
+    <td id="clue_J_6_3" class="clue_text">When forced to admit a mistake, you have to "eat" this bird (which is far from appetizing)</td>
+    <td id="clue_J_6_4" class="clue_text">If you're completely undressed, you're as "naked as" this bird that's noisy &amp; often bright blue</td>
+    <td id="clue_J_6_5" class="clue_text">It's a "homicidal" phrase for achieving 2 goals with a single effort</td>

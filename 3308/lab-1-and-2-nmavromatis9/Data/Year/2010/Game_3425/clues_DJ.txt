@@ -1,0 +1,30 @@
+    <td id="clue_DJ_1_1" class="clue_text">A seaplane called the Campania was designed to take off from the deck of this; seems to defeat the purpose of a seaplane</td>
+    <td id="clue_DJ_1_2" class="clue_text">The Schutte-Lanz company also made dirigibles in Germany, but it was this company whose airships terrorized London</td>
+    <td id="clue_DJ_1_3" class="clue_text">Structurally, the Fokker Dr. I was this type of plane design (hint: the 320 built had a total of 960 wings)</td>
+    <td id="clue_DJ_1_4" class="clue_text">(<a href="http://www.j-archive.com/media/2010-06-30_DJ_09.jpg" target="_blank">Kelly of the Clue Crew reports from the Museum of Flight in Seattle, WA.</a>)  The Newport 28 at the Museum of Flight was the model used by Quentin, the son of this U.S. president; Quentin was killed in aerial combat over France in July 1918</td>
+    <td id="clue_DJ_1_5" class="clue_text">Germany's Halberstadt CL IV was powered by this engine brand named for a girl</td>
+    <td id="clue_DJ_2_1" class="clue_text">Trainer Angelo Dundee was in this champ's corner from 1960 to his 1981 fight with Trevor Berbick</td>
+    <td id="clue_DJ_2_2" class="clue_text">Damon Runyon gave this champ the nickname "Manassa Mauler", Manassa being the Colorado town where he was born</td>
+    <td id="clue_DJ_2_3" class="clue_text">In 1994, at age 45, he reclaimed the title he had held 20 years earlier with a 10-round knockout of champ Michael Moorer</td>
+    <td id="clue_DJ_2_4" class="clue_text">He retired in 1949 after an 11-year reign as champ but came out of retirement in 1950, losing to Ezzard Charles</td>
+    <td id="clue_DJ_2_5" class="clue_text">This African American's first fight after winning the title was a 1909 bout against future actor Victor McLaglen</td>
+    <td id="clue_DJ_3_1" class="clue_text">Graz,<br />Salzburg</td>
+    <td id="clue_DJ_3_2" class="clue_text">Bergen,<br />Trondheim</td>
+    <td id="clue_DJ_3_3" class="clue_text">Odessa,<br />Lviv</td>
+    <td id="clue_DJ_3_4" class="clue_text">Charleroi,<br />Ghent</td>
+    <td id="clue_DJ_3_5" class="clue_text">Coimbra,<br />Aveiro</td>
+    <td id="clue_DJ_4_1" class="clue_text">The cover of the mag shows Puget Sound's Puyallup tribe practicing this traditional main occupation</td>
+    <td id="clue_DJ_4_2" class="clue_text">The Coroado people of this South American country's Atlantic coast admit it: linguistically, "I'm Ge"</td>
+    <td id="clue_DJ_4_3" class="clue_text">Hot romance of Southern Africa; as Khoisan speakers, when the 2 started talking, sonically, really did this</td>
+    <td id="clue_DJ_4_4" class="clue_text">Hurt &amp; angry at also being called the Kukukuku, the Anga lash out from their home on this large island north of Australia</td>
+    <td id="clue_DJ_4_5" class="clue_text">A story on a North African people is headlined "There's more to us than" <a href="http://www.j-archive.com/media/2010-06-30_DJ_20.jpg" target="_blank">this</a> carpet</td>
+    <td id="clue_DJ_5_1" class="clue_text">This Dr. Seuss feline said, "I always pick up all my playthings, and so... I will show you another good trick that I know"</td>
+    <td id="clue_DJ_5_2" class="clue_text">He told Alice, "We're all mad here, I'm mad, you're mad"</td>
+    <td id="clue_DJ_5_3" class="clue_text">Tom Kitten gets rolled up in dough &amp; is almost baked in a pudding in "The Tale of Samuel Whiskers" by this author</td>
+    <td id="clue_DJ_5_4" class="clue_text">In this George Selden work, Harry Cat becomes friends with Chester, a cricket from Connecticut who goes to NYC</td>
+    <td id="clue_DJ_5_5" class="clue_text">Jennyanydots is the subject of "The Old Gumbie Cat", one of 13 poems in this collection</td>
+    <td id="clue_DJ_6_1" class="clue_text">The mood was one of this as the Moon broke from its orbit &amp; hurtled toward Earth</td>
+    <td id="clue_DJ_6_2" class="clue_text">The Internet is inundated with many things: polls. sports, games, maps, news &amp; unfortunately, this</td>
+    <td id="clue_DJ_6_3" class="clue_text">Bertha said it was the last straw when confronted by these in the mirror, the day before prom</td>
+    <td id="clue_DJ_6_4" class="clue_text">The executive chef stressed to the waiters that these were going to take 15 minutes to prep</td>
+    <td id="clue_DJ_6_5" class="clue_text">The announcement rang out that the baby's mother would be repaid for this item</td>

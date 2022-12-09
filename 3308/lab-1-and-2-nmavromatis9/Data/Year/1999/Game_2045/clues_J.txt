@@ -1,0 +1,30 @@
+    <td id="clue_J_1_1" class="clue_text">Was Pope Catholic?  No, he led a 1690 revolt against colonizers from this European country</td>
+    <td id="clue_J_1_2" class="clue_text">Once defined as most of the U.S. west of the Mississippi, it shrank to most of present-day Oklahoma</td>
+    <td id="clue_J_1_3" class="clue_text">In 1791 Little Turtle won a great victory over white forces on the banks of this Indiana river</td>
+    <td id="clue_J_1_4" class="clue_text">What may be the USA's oldest continuously inhabited town, Old Oraibi, was settled c. 1150 by these Arizona Indians</td>
+    <td id="clue_J_1_5" class="clue_text">In 1649 the Iroquois, armed with Dutch guns, decimated this tribe that shares its name with a Great Lake</td>
+    <td id="clue_J_2_1" class="clue_text">It's the largest denomination of paper currency currently issued in the U.S.</td>
+    <td id="clue_J_2_2" class="clue_text">In the King James Version of the New Testament, it's the last word</td>
+    <td id="clue_J_2_3" class="clue_text">Eva's sister, she won the 1936 Miss Hungary contest as a teenager</td>
+    <td id="clue_J_2_4" class="clue_text">After throwing a gutterball on your first throw, the number of pins in the back row in tenpin bowling</td>
+    <td id="clue_J_2_5" class="clue_text">In Roman numerals, it's an M with a bar over it</td>
+    <td id="clue_J_3_1" class="clue_text">This bovine that's mentioned could star in "Farmer in the Dell: The Moovie"</td>
+    <td id="clue_J_3_2" class="clue_text">At the end of the song, it "stands alone"</td>
+    <td id="clue_J_3_3" class="clue_text">The smallest creature in the rhyme; I'm beginning to smell one...</td>
+    <td id="clue_J_3_4" class="clue_text">Hi-ho the derry-o, it takes the cat</td>
+    <td id="clue_J_3_5" class="clue_text">Of a flat plain, a small valley or the morning, what "the dell" is</td>
+    <td id="clue_J_4_1" class="clue_text">To legally buy alcohol across the U.S.</td>
+    <td id="clue_J_4_2" class="clue_text">To see an R-rated movie unaccompanied by an adult</td>
+    <td id="clue_J_4_3" class="clue_text">To vote in Canadian national elections</td>
+    <td id="clue_J_4_4" class="clue_text">To play on the Senior PGA Tour</td>
+    <td id="clue_J_4_5" class="clue_text">To serve as a Congressman</td>
+    <td id="clue_J_5_1" class="clue_text">The sacred Hindu city of Benares is located on the left bank of this river</td>
+    <td id="clue_J_5_2" class="clue_text">This large &amp; commercially important U.S. river begins in Pittsburgh, Pennsylvania</td>
+    <td id="clue_J_5_3" class="clue_text">This international river flows past Alamosa, Colorado &amp; Brownsville, Texas on its way to the Gulf of Mexico</td>
+    <td id="clue_J_5_4" class="clue_text">Baghdad, Iraq lies on this Fertile Crescent river</td>
+    <td id="clue_J_5_5" class="clue_text">1 of the 2 rivers at whose confluence the city of Montreal lies</td>
+    <td id="clue_J_6_1" class="clue_text">Ship seen here, it was launched in 1967, the successor to one launched in 1938</td>
+    <td id="clue_J_6_2" class="clue_text">Homophone illustrated here:<br />(former vice president &amp; game bird)</td>
+    <td id="clue_J_6_3" class="clue_text">The Society of Friends tried to stop a breakfast food firm from using this name as a trademark</td>
+    <td id="clue_J_6_4" class="clue_text">(Hi, I'm Ilia Kulik)  In 1998 I became the first man to win the skating gold at the Olympics with one of these in my routine</td>
+    <td id="clue_J_6_5" class="clue_text">This band known as the "Pre-Fab Five" has re-formed, though without John, Paul or George</td>

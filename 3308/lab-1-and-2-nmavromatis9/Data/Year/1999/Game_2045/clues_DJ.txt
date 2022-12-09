@@ -1,0 +1,26 @@
+    <td id="clue_DJ_1_1" class="clue_text">He wrote, "When what to my wondering eyes should appear but a miniature sleigh and eight tiny reindeer"</td>
+    <td id="clue_DJ_1_2" class="clue_text">It's been said that Thoreau was the "American Scholar" that this transcendentalist called for in "The American Scholar"</td>
+    <td id="clue_DJ_1_3" class="clue_text">Neil Klugman &amp; Radcliffe girl Brenda Patimkin have a summer love affair in this Philip Roth novella</td>
+    <td id="clue_DJ_1_4" class="clue_text">"Thou wast not born for death, immortal bird!" Keats wrote in the "Ode to" this feathered friend</td>
+    <td id="clue_DJ_1_5" class="clue_text">"Omoo" was Herman Melville's sequel to this 1846 narrative about captive live with a tribe of cannibals</td>
+    <td id="clue_DJ_2_1" class="clue_text">Washington, D.C. museum complex where you'll find Judy Garland's magic slippers from "The Wizard of Oz"</td>
+    <td id="clue_DJ_2_2" class="clue_text">Don't be starstruck, it's the city of 3.5 million where you'll find this sign:<br />(The "Hollywood" sign)</td>
+    <td id="clue_DJ_2_3" class="clue_text">You'll find Boardwalk, Park Place &amp; other Monopoly streets in this coastal New Jersey city</td>
+    <td id="clue_DJ_2_4" class="clue_text">It's the "shire" where you'll find the storied Sherwood Forest</td>
+    <td id="clue_DJ_2_5" class="clue_text">The region ruled by the Queen of Sheba is in this small nation on the southern end of the Arabian Peninsula</td>
+    <td id="clue_DJ_3_1" class="clue_text">These restaurant workers share their name with an appliance that does the same job</td>
+    <td id="clue_DJ_3_2" class="clue_text">If you're a paparazzo, you have this "p"rofession</td>
+    <td id="clue_DJ_3_3" class="clue_text">Rene Lalique gained fame as a glassmaker as well as one of these people who are never out of the "loupe"</td>
+    <td id="clue_DJ_3_4" class="clue_text">"Fractional" term for an officer charged with providing shelter, clothing, etc. for troops</td>
+    <td id="clue_DJ_3_5" class="clue_text">Manipulative healers include chiropractors &amp; these physicians whose name is from Latin for "bone"</td>
+    <td id="clue_DJ_4_1" class="clue_text">Nobelium,<br />selenium</td>
+    <td id="clue_DJ_4_2" class="clue_text">Radium,<br />iodine,<br />nitrogen</td>
+    <td id="clue_DJ_4_3" class="clue_text">Scandium,<br />Americium</td>
+    <td id="clue_DJ_4_4" class="clue_text">Nickel,<br />carbon,<br />potassium</td>
+    <td id="clue_DJ_4_5" class="clue_text">Sodium, <br />sulfur,<br />aluminum</td>
+    <td id="clue_DJ_5_1" class="clue_text">In 1985 the "Grand Ole Opry" began broadcasting live on this cable network</td>
+    <td id="clue_DJ_6_1" class="clue_text">Well-traveled airline passenger rewards that go to a legendary jazz trumpeter</td>
+    <td id="clue_DJ_6_2" class="clue_text">Historic Virginia college that "Can turn the world on with her smile"</td>
+    <td id="clue_DJ_6_3" class="clue_text">PBS talk show master who becomes an annual Pasadena football classic</td>
+    <td id="clue_DJ_6_4" class="clue_text">Key to Egyptian hieroglyphics translated by NBC's "Dateline" co-host</td>
+    <td id="clue_DJ_6_5" class="clue_text">A result of pregnancy on the tummy that can be covered by clothing from a British department store</td>

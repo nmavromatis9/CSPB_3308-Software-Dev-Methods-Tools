@@ -1,0 +1,30 @@
+    <td id="clue_J_1_1" class="clue_text">This fossilized resin from prehistoric pines can preserve an insect forever</td>
+    <td id="clue_J_1_2" class="clue_text">Most icebergs in the north Atlantic come from about 20 glaciers on this island's west coast</td>
+    <td id="clue_J_1_3" class="clue_text">Around 1840 chemist John William Draper took the first photograph of this heavenly body</td>
+    <td id="clue_J_1_4" class="clue_text">Birds &amp; bees perform this transfer of gametes from anthers to stigmas</td>
+    <td id="clue_J_1_5" class="clue_text">Einstein said measurements of this depend on whether the observer is moving; it's not absolute</td>
+    <td id="clue_J_2_1" class="clue_text">In "The Wizard of Oz", Billie Burke told Judy Garland, "Never let those" items "off your feet for a moment"</td>
+    <td id="clue_J_2_2" class="clue_text">This 1996 animated &amp; live action sports film featured the songs "Fly Like an Eagle" and "I Believe I Can Fly"</td>
+    <td id="clue_J_2_3" class="clue_text">He not only directed "The Doors" &amp; "JFK", he co-wrote the screenplays</td>
+    <td id="clue_J_2_4" class="clue_text">In movie titles, this pop artist's name precedes "Bad", "Dracula", &amp; "Frankenstein"</td>
+    <td id="clue_J_2_5" class="clue_text">This actor played a scarred ex-teacher in his directorial debut, "The Man Without a Face"</td>
+    <td id="clue_J_3_1" class="clue_text">Shoppers, take note:  the Potomac Mills discount mall is this state's No. 1 tourist destination</td>
+    <td id="clue_J_3_2" class="clue_text">Midwesterners know it's the "Sioux State", as well as the "Flickertail State"</td>
+    <td id="clue_J_3_3" class="clue_text">Known for its Victorian homes, Cape May in this state celebrates Victorian Week every October</td>
+    <td id="clue_J_3_4" class="clue_text">Tahlequah, in this state, is the capital of the Cherokee nation, so it's home to the Cherokee national museum</td>
+    <td id="clue_J_3_5" class="clue_text">The world's oldest Zydeco festival takes place annually in Plaisance, near Opelousas in this state</td>
+    <td id="clue_J_4_1" class="clue_text">On May 5, 1981, Irish nationalist Bobby Sands died after a 66-day-long one of these</td>
+    <td id="clue_J_4_2" class="clue_text">An order was given in October, 1961 to remove this man's body from Lenin's tomb</td>
+    <td id="clue_J_4_3" class="clue_text">2 British destroyers were sunk during this 1982 war</td>
+    <td id="clue_J_4_4" class="clue_text">This country withdrew from the League of Nations in 1933 after the league condemned its attacks on China</td>
+    <td id="clue_J_4_5" class="clue_text">A 1993 car bomb explosion in Florence, Italy damaged priceless works of art from this gallery</td>
+    <td id="clue_J_5_1" class="clue_text">One of these devices stocked with thistle seeds may attract goldfinches</td>
+    <td id="clue_J_5_2" class="clue_text">It's a good idea to regularly test the pH &amp; chlorine levels of the water in one of these</td>
+    <td id="clue_J_5_3" class="clue_text">Children help spread this common lawn weed when they blow off its white, puffy seeds</td>
+    <td id="clue_J_5_4" class="clue_text">A craze in the '50s, these bunkers were built in case of nuclear war</td>
+    <td id="clue_J_5_5" class="clue_text">This game played across a net became a medal sport at the 1992 Olympics</td>
+    <td id="clue_J_6_1" class="clue_text">When it breaks, the cradle will fall</td>
+    <td id="clue_J_6_2" class="clue_text">A goon, a bruiser, a heavy, or a thug</td>
+    <td id="clue_J_6_3" class="clue_text">It's similar to batter, but it's too stiff to pour</td>
+    <td id="clue_J_6_4" class="clue_text">To truly eat like a pig, put your food in one of these</td>
+    <td id="clue_J_6_5" class="clue_text">It's a political division of New York City; Queens is one</td>

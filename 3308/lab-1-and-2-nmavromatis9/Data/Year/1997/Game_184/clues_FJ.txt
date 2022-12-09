@@ -1,0 +1,1 @@
+    <td id="clue_FJ" class="clue_text">The Murders in the Rue Morgue and The Mystery of Marie Roget are mentioned in the 1st paragraph of this 1845 story</td>

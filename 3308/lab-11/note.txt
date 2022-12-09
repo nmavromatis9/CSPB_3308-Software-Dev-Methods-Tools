@@ -1,0 +1,8 @@
+#In order to run:
+
+python3 -m http.server 8000 --cgi --bind 127.0.0.1
+
+https://coding.csel.io/user/nima6629/proxy/127.0.0.1:8000/weather.html
+
+https://coding.csel.io/user/nima6629/proxy/127.0.0.1:8000/cgi-bin/weather_script.py
+
